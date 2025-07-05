@@ -1,0 +1,22 @@
+{
+  "name": "مجمع شهداء التربية النموذجي",
+  "short_name": "المجمع",
+  "start_url": "/MGMA/index.html",
+  "display": "standalone",
+  "background_color": "#4CAF50",
+  "theme_color": "#4CAF50",
+  "description": "مجمع شهداء التربية النموذجي نتائج الطلاب خدمات طلابية",
+  "gcm_sender_id": "482941778795",
+  "icons": [
+    {
+      "src": "/MGMA/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/MGMA/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
